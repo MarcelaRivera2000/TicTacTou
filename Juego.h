@@ -9,11 +9,11 @@ class Juego
 	public:
 		Juego();
 		
-		IniciarPartida();
-		ValidarGanador();
-		ElegirGanador();
-		MostrarPuntuaciones();
-		ImprimirJugadores();
+		void IniciarPartida();
+		void ValidarGanador();
+		void ElegirGanador();
+		void MostrarPuntuaciones();
+		 voidImprimirJugadores();
 		
 		~Juego();
 	protected:

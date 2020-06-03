@@ -7,8 +7,13 @@ LeftChar=1
 Order=0
 Focused=0
 [Editor_0]
+<<<<<<< HEAD
+CursorCol=1
+CursorRow=8
+=======
 CursorCol=26
 CursorRow=21
+>>>>>>> cee7df5c42c61e45ed3f8d95a7578579fe7181a0
 TopLine=1
 LeftChar=1
 [Editor_1]

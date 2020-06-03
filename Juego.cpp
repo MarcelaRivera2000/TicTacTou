@@ -1,12 +1,14 @@
 #include "Juego.h"
 
 Juego::Juego(){
-
+	
 }
 
 
-void Juego::IniciarPartida(){
-	
+void Juego::IniciarPartida(Tablero tablero, Jugador jugador, JugadorHumano compu){
+	this->tablero = tablero;
+	this->jugador = jugador;
+	this->computadora = compu;
 }
 
 void Juego::ValidarGanador(){

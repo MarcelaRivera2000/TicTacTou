@@ -9,15 +9,15 @@ class Juego
 	public:
 		Juego();
 		
-		void IniciarPartida();
+		void IniciarPartida(Tablero, Jugador, JugadorHumano);
 		void ValidarGanador();
 		void ElegirGanador();
 		void MostrarPuntuaciones();
-		 voidImprimirJugadores();
+		void ImprimirJugadores();
 		
 		~Juego();
 	protected:
-		Tablero tablero;
+		Tablero* tablero;
 		Jugador computadora;
 		JugadorHumano jugador;
 		

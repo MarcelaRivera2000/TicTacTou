@@ -3,7 +3,8 @@
 
 using namespace std;
 
-Jugador::Jugador(string n,int p,char m){
+Jugador::Jugador(string n,int p,char m)
+{
 	nombre=n;
 	marca=m;
 	puntos=p;	
@@ -29,7 +30,7 @@ void Jugador::setNombre(string n){
 	nombre=n;
 }
 
-void Jugador::setMarca(int p){
+void Jugador::setPuntos(int p){
 	puntos=p;
 }
 

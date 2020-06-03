@@ -6,13 +6,13 @@ using namespace std;
 
 class Jugador{
 	public: 
-		Jugador();
+		Jugador(string,int,char);
 		string getNombre();
-		void setNombre();
+		void setNombre(string);
 		int getPuntos();
-		void setPuntos();
+		void setPuntos(int);
 		char getMarca();
-		void setMarca();
+		void setMarca(char);
 		~Jugador();
 	
 	private:

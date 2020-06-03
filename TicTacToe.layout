@@ -5,15 +5,17 @@ TopLine=1
 LeftChar=1
 [Editors]
 <<<<<<< HEAD
-Order=0,7,8,1,2
-Focused=0
+Order=0,7,8
+Focused=7
 [Editor_0]
 <<<<<<< HEAD
-CursorCol=2
-CursorRow=12
+CursorCol=1
+CursorRow=7
 =======
 Order=0,1,2,4,3,5,6,7,8
 Focused=7
+TopLine=1
+LeftChar=1
 [Editor_0]
 <<<<<<< HEAD
 CursorCol=1
@@ -52,8 +54,8 @@ TopLine=1
 LeftChar=1
 [Editor_7]
 <<<<<<< HEAD
-CursorCol=1
-CursorRow=5
+CursorCol=21
+CursorRow=15
 =======
 CursorCol=25
 CursorRow=22
@@ -61,9 +63,9 @@ CursorRow=22
 TopLine=1
 LeftChar=1
 [Editor_8]
-CursorCol=2
+CursorCol=24
 <<<<<<< HEAD
-CursorRow=18
+CursorRow=33
 =======
 CursorRow=30
 >>>>>>> 090551e9951446545b21ec2ed4a7c54e13df0833

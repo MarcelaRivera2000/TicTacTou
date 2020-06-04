@@ -1,36 +1,10 @@
 #include "Jugador.h"
-#include <string>
 
-using namespace std;
-
-Jugador::Jugador(string n,int p,char m)
-{
-	nombre=n;
-	marca=m;
-	puntos=p;	
+int Jugador::ElegirCasilla(){
+    return -1;
 }
 
-string Jugador::getNombre(){
-	return nombre;
-}
-
-int Jugador::getPuntos(){
-	return puntos;
-}
-
-char Jugador::getMarca(){
-	return marca;
-}
-
-void Jugador::setMarca(char m){
-	marca=m;
-}
-
-void Jugador::setNombre(string n){
-	nombre=n;
-}
-
-void Jugador::setPuntos(int p){
-	puntos=p;
+int  Jugador::RealizarJugada(){
+    return -1;
 }
 

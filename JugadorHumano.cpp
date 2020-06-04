@@ -7,6 +7,7 @@ JugadorHumano::JugadorHumano(){
 
 string JugadorHumano::getNombre(){
 	return nombre;
+	
 }
 
 int JugadorHumano::getPuntos(){

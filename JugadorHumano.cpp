@@ -1,7 +1,8 @@
 #include "JugadorHumano.h"
+#include <string>
+using namespace std;
 
-JugadorHumano::JugadorHumano()
-{
+JugadorHumano::JugadorHumano(){
 }
 
 string JugadorHumano::getNombre(){

@@ -28,12 +28,8 @@ Folders=
 IncludeVersionInfo=0
 SupportXPThemes=0
 CompilerSet=0
-<<<<<<< HEAD
-CompilerSettings=0000000000000000100000000
-=======
 CompilerSettings=0000000000000000000000000
->>>>>>> 090551e9951446545b21ec2ed4a7c54e13df0833
-UnitCount=9
+UnitCount=7
 
 [VersionInfo]
 Major=1
@@ -116,34 +112,6 @@ BuildCmd=
 
 [Unit7]
 FileName=Char.cpp
-CompileCpp=1
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
-
-[Unit8]
-<<<<<<< HEAD
-FileName=Jugador.h
-=======
-FileName=Juego.h
->>>>>>> 090551e9951446545b21ec2ed4a7c54e13df0833
-CompileCpp=1
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
-
-[Unit9]
-<<<<<<< HEAD
-FileName=Jugador.cpp
-=======
-FileName=Juego.cpp
->>>>>>> 090551e9951446545b21ec2ed4a7c54e13df0833
 CompileCpp=1
 Folder=
 Compile=1
